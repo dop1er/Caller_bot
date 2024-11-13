@@ -1,0 +1,19 @@
+{
+    "api_id": "28356690",
+    "api_hash": "cbb656fb9dc657851fe3b7fb0f666b38",
+    "channels": ["@faneth", "@lvvpumpy", "@pumpygamble"],
+    "recheck_channels": ["@faneth", "@lvvpumpy", "@pumpygamble"],
+    "sol_amount": 0.001,
+    "solana_wallet_private_key": "",
+    "solana_rpc_url": "https://rpc.ankr.com/solana/5853ad8fb701117a93927364a23ac4a813ae2a0d420ef5e0b36470c1af00740b",
+    "rate_limit": 15,
+    "priority_fee": 0.0,
+    "bribe": 0.0,
+    "slippage_buy": 30,
+    "slippage_sell": 30,
+    "confirmation_attempts": 0,
+    "bot_username": "@achilles_trojanbot",
+    "bot_token": "8017332150:AAHmpDaZe_2uAcHkdgVVyx9MiIAL2Eyllr4",
+    "chat_id": "-1002480341987",
+    "skip_phrases": ["dip"]
+}
